@@ -16,5 +16,6 @@ http://127.0.0.1
 ![工具示例图片](https://raw.githubusercontent.com/weepsafe/BackupScanner/main/images/1.png)
 
 
+# 如果有哪些常见的web备份文件而未扫描到,欢迎提交issue
 
 ## 仅限用于教育和学习用途.
